@@ -1,7 +1,7 @@
 {
   "name": "uupaa.ts2aac.js",
   "version": "0.0.1",
-  "description": "convert MPEG2-TS to AAC",
+  "description": "Convert MPEG2-TS to AAC.",
   "url": "https://github.com/uupaa/ts2aac.js",
   "keywords": ["MPEG2-TS", "AAC", "uupaa", "WebModule", "Unstable"],
   "repository": {
