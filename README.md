@@ -28,3 +28,9 @@ require("<module-dir>/lib/ts2aac.js");
 
 ```
 
+## Command Line
+
+```sh
+$ node ts2aac.js a.ts a.aac
+```
+
